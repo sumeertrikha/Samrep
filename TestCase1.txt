@@ -1,0 +1,2 @@
+This is a sample text file.
+This may contain a encrypted message.
